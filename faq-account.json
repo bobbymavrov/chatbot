@@ -1,0 +1,123 @@
+{
+  "Question1": {
+    "Alt": {
+      "1": "I'm having trouble",
+      "2": "I need help",
+      "3": "Can you help me"
+    },
+    "Response": "Sure, I'll be glad to help you. Just let me know what do you need"
+  },
+  "Question2": {
+    "Alt": {
+      "1": "I can’t get access to content I’ve paid for",
+      "2": "I payed for a video and I don't see it",
+      "3": "Don't have access to a video"
+    },
+    "Response": "It seems like you don't have access to a content you've already purchased. Please stand by till I transfer you to live assistance..."
+  },
+  "Question3": {
+    "Alt": {
+      "1": "I can't play video on my device",
+      "2": "I can't play video on my phone",
+      "3": "Video not running"
+    },
+    "Response": "Please try to close and open our application if you are using your mobile device or refresh your browser page and try again."
+  },
+  "Question4": {
+    "Alt": {
+      "1": "Support ticket",
+      "2": "Check on support ticket",
+      "3": "When my support ticket will be resolved"
+    },
+    "Response": "Please type in the number of your ticket and I'll pull out the information for you"
+  },
+  "Question5": {
+    "Alt": {
+      "1": "My latest video isn’t online",
+      "2": "I don't see one of my videos",
+      "3": "I uploaded a video and I don't see it"
+    },
+    "Response": "I'm really sorry. I'will connect you to live support and they'll be able to help you. Please stand by..."
+  },
+  "Question6": {
+    "Alt": {
+      "1": "I have a problem with video I uploaded",
+      "2": "My video was cut off",
+      "3": "Video not complete",
+      "4": "Why was my video cut off"
+    },
+    "Response": "I'm really sorry. We currently have a 10 min max duration for all of our videos. Can I suggest a trim function to be added on submission"
+  },
+  "Question7": {
+    "Alt": {
+      "1": "I want to pay for something but don’t know how",
+      "2": "Purchase video",
+      "3": "Buy something"
+    },
+    "Response": "It seems you are trying to purchase something but do not have a payment method set up. May I assist you in setting up a payment method"
+  },
+  "Question8": {
+    "Alt": {
+      "1": "Unsubscribe",
+      "2": "Cancel subscription",
+      "3": "Video not complete"
+    },
+    "Response": "It seems you are trying to cancel your subscription. I can help you with that. Can you please confirm that (Yes/No)"
+  },
+  "Question9": {
+    "Alt": {
+      "1": "How much does this video cost",
+      "2": "Check a video price",
+      "3": "How much for a video"
+    },
+    "Response": "The video on this page currently costs $1.99. Let me know the names of other videos you would to check the price for."
+  },
+  "Question10": {
+    "Alt": {
+      "1": "I want to set a price for a video",
+      "2": "I want to charge $5 for video",
+      "3": "I want to set up a subscription for my chanel"
+    },
+    "Response": "It seems you are trying to set up a price for one of your videos or set up a subscription price for your chanel. You can do that via Video Settings menu or Channel Settings menu"
+  },
+  "Question11": {
+    "Alt": {
+      "1": "Do you have videos for kids",
+      "2": "Kids videos"
+    },
+    "Response": "Sure! Please checkout the Kids section in our menu."
+  },
+  "Question12": {
+    "Alt": {
+      "1": "Do you have music videos",
+      "2": "Music videos",
+      "3": "I want to listen to music",
+      "4": "Show me music videos"
+    },
+    "Response": "Sure! Please checkout the Music section in our menu."
+  },
+  "Question13": {
+    "Alt": {
+      "1": "Exit",
+      "2": "Stop",
+      "3": "I'm done",
+      "4": "Quit"
+    },
+    "Response": "It was pleasure helping you today."
+  },
+  "Question14": {
+    "Alt": {
+      "1": "Exit",
+      "2": "Stop",
+      "3": "I'm done",
+      "4": "Quit"
+    },
+    "Response": "It was pleasure helping you today."
+  },
+  "Question15": {
+    "Alt": {
+      "1": "Is making and account free"
+    },
+    "Response": "Yes it is absolutely free. You can create new account at any time using the Create Account button"
+  }
+}

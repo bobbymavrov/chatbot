@@ -1,0 +1,57 @@
+{
+  "Question1": {
+    "Alt": {
+      "1": "I'm having trouble",
+      "2": "I need help",
+      "3": "Can you help me"
+    },
+    "Response": "Sure, I'll be glad to help you. Just let me know what do you need"
+  },
+  "Question2": {
+    "Alt": {
+      "1": "I can't play video on my device",
+      "2": "I can't play video on my phone",
+      "3": "Video not running"
+    },
+    "Response": "Please try to close and open our application if you are using your mobile device or refresh your browser page and try again."
+  },
+  "Question3": {
+    "Alt": {
+      "1": "How much does this video cost",
+      "2": "Check a video price",
+      "3": "How much for a video"
+    },
+    "Response": "The video on this page currently costs $1.99. Let me know the names of other videos you would to check the price for."
+  },
+  "Question4": {
+    "Alt": {
+      "1": "Do you have videos for kids",
+      "2": "Kids videos"
+    },
+    "Response": "Sure! Please checkout the Kids section in our menu."
+  },
+  "Question5": {
+    "Alt": {
+      "1": "Do you have music videos",
+      "2": "Music videos",
+      "3": "I want to listen to music",
+      "4": "Show me music videos"
+    },
+    "Response": "Sure! Please checkout the Music section in our menu."
+  },
+  "Question6": {
+    "Alt": {
+      "1": "Exit",
+      "2": "Stop",
+      "3": "I'm done",
+      "4": "Quit"
+    },
+    "Response": "It was pleasure helping you today."
+  },
+  "Question7": {
+    "Alt": {
+      "1": "Is making and account free"
+    },
+    "Response": "Yes it is absolutely free. You can create new account at any time using the Create Account button"
+  }
+}

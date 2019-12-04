@@ -12,7 +12,7 @@ public class AccountHandler {
         do {
             System.out.println("Please enter your user name:\t");
             username = scanner.next();
-            System.out.println("Please enter your user password:\t");
+            System.out.println("Please enter your password:\t");
             String password = scanner.next();
 
             if(username.isEmpty()){
