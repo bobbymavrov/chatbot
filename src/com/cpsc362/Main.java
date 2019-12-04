@@ -20,7 +20,6 @@ public class Main {
     private static Set<Map.Entry<String, JsonElement>> faqContent = new HashSet<>();
 
     public static void main(String[] args) throws FileNotFoundException {
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Hello! My name is Alex. I'm here to assist you with anything you need.\n" +
@@ -32,10 +31,10 @@ public class Main {
 
         if(!username.isEmpty()){
             authenticated = true;
-            System.out.println(String.format("Hello %s, welcome back! How can I help you today? You can " +
+            System.out.println(String.format("\nHello %s, welcome back! How can I help you today? You can " +
                     "ask me things like:\n%s", username, getRandomAuthenticated()));
         }else{
-            System.out.println(String.format("How can I help you today? You can ask me things like:\n%s", getRandomGuest()));
+            System.out.println(String.format("\nHow can I help you today? You can ask me things like:\n%s", getRandomGuest()));
         }
         loadFaq(authenticated);
         FaqHandler.answerFaq(scanner, faqContent);
